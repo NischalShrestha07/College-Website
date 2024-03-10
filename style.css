@@ -1,27 +1,37 @@
 * {
-margin: 0;
-padding: 0;
-/* font-family: 'Gilroy'; */
-font-family: "santserret",sans-serif,arial;
-box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Gilroy'; */
+  font-family: "santserret", sans-serif, arial;
+  box-sizing: border-box;
 }
-html,body {
-    height: 100%;
-width: 100%;
+html,
+body {
+  height: 100%;
+  width: 100%;
 }
 
-.width-100{
-    width: 100%;
-    float: left;
+.width-100 {
+  width: 100%;
+  float: left;
 }
-.container{
-    width: 1500px;
-    margin: 0px auto;
-
+.container {
+  width: 1500px;
+  margin: 0px auto;
 }
-.top-header{
-    background: skyblue;
-    padding: 5px 0px;
-    border-radius: 1px solid #3131315e;
-
+.top-header {
+  background: skyblue;
+  padding: 5px 0px;
+  border-radius: 1px solid #3131315e;
+}
+.news-list {
+  background: #fff;
+  color: red;
+  padding: 6px;
+  font-size: 20px;
+}
+.headquote {
+  font-size: 10px;
+  color: white;
+  width: 80%;
 }
