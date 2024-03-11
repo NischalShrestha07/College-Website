@@ -37,9 +37,11 @@ body {
 }
 .header-menu {
   position: relative;
-  box-shadow: 0px 2px 5px 0px #;
+  box-shadow: 0px 2px 5px 0px #00000036;
 }
 .logo {
+  width: fit-content;
+  float: left;
 }
 .main-menu {
 }
